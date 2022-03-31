@@ -2,6 +2,7 @@
   "name": "angular-auth0-zenvia-sms",
   "version": "1.0.0",
   "author": "Rodrigo Kamada <rodrigo@kamada.com.br> (https://github.com/rodrigokamada)",
+  "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
