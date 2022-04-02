@@ -22,3 +22,28 @@ Before you start, you need to install and configure the tools:
 * [Node.js and npm](https://nodejs.org/)
 * [Angular CLI](https://angular.io/cli)
 * IDE (e.g. [Visual Studio Code](https://code.visualstudio.com/) or [WebStorm](https://www.jetbrains.com/webstorm/))
+
+
+
+## Cloning the application
+
+
+**1.** Clone the repository.
+
+```shell
+git clone git@github.com:rodrigokamada/angular-auth0-zenvia-sms.git
+```
+
+**2.** Install the dependencies.
+
+```shell
+npm ci
+```
+
+**3.** Change the `src/environments/environment.ts` file and add the [Auth0](https://app.zenvia.com/home/api) applications settings. 
+
+**4.** Run the application.
+
+```shell
+npm start
+```
