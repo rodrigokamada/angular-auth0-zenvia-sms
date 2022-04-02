@@ -3,7 +3,7 @@
 
 Application example using [Angular](https://angular.io/) where a simple WEB application will be implemented using the [Auth0](https://auth0.com/) platform to authenticate and authorize the user and the [ZENVIA](https://www.zenvia.com/) platform to integrate with SMS channel in order to validate the user phone.
 
-This tutorial was posted on my [blog]() in portuguese and on the [DEV Community]() in english.
+This tutorial was posted on my [blog](https://rodrigo.kamada.com.br/blog/validando-o-telefone-do-usuario-por-sms-no-auth0-usando-a-zenvia) in portuguese and on the [DEV Community]() in english.
 
 
 
