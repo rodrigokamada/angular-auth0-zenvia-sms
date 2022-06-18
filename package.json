@@ -1,6 +1,7 @@
 {
   "name": "angular-auth0-zenvia-sms",
   "version": "1.0.0",
+  "description": "Application example using Angular where a simple WEB application will be implemented using the Auth0 platform to authenticate and authorize the user and the ZENVIA platform to integrate with SMS channel in order to validate the user phone.",
   "author": "Rodrigo Kamada <rodrigo@kamada.com.br> (https://github.com/rodrigokamada)",
   "license": "MIT",
   "private": true,
